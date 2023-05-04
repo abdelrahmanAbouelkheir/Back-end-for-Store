@@ -1,5 +1,5 @@
 # Back-End for Store
-  This project includes code that handles the database that conatins tables for user,products and is able to track orders of users including its status.It has two environments 
+  This project is related to my Advanced Full-Stack Web Development Nanodegree Program.It handles the database that conatins tables for user,products and is able to track orders of users including its status.It has two environments 
   the testing environment and developing environment.It is a resful api that uses JWT for authentication covering only crud operations with their tests. Moreover, it follows    the standardized project folder structure.
 
 ## Tech Stack
